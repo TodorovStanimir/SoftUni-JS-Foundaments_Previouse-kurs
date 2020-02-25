@@ -1,0 +1,31 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    border: solid 3px;
+    border-color: yellow;
+    margin: 20px;
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#purple {
+    background-color: purple
+}
+
+#orange {
+    background-color: orange;
+}

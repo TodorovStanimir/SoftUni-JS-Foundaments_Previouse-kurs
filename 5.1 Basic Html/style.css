@@ -1,0 +1,37 @@
+div {
+    display: inline-block;
+    width: 30%;
+    margin-left: 2%;
+    vertical-align: top;
+
+}
+
+h1 {
+    display: inline;
+    color: blue;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
+
+p {
+    color: darkviolet;
+}
+
+#content {
+    background: #EEE;
+}
+li{
+    border: solid;
+    border-color: yellow;
+}
+span{
+    border: dotted;
+    border-color: darkcyan;
+}
